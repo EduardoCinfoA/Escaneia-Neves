@@ -5,6 +5,8 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-image: url(imagens/image.png);
+    width: 100%;
+    height: 100%;
 }
 header {
     background: orange;
@@ -116,4 +118,5 @@ header {
 /* Icone da casinha */
 .logcasa{
     margin-left: 20px;
+
 }
