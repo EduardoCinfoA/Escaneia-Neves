@@ -1,5 +1,7 @@
 # **Escaneia-Neves** 
-### [link do site]https://github.com/EduardoCinfoA/Escaneia-Neves/tree/cca2e618965d19e406571b5498430a02b4a0eeb9/Info2A
+### [site]
+[link do site]
+
 [link do fluxo de navegação](https://github.com/EduardoCinfoA/Escaneia-Neves/blob/main/link%20do%20Fluxo%20de%20Navega%C3%A7%C3%A3o)
 
 ### Sobre o Projeto:
