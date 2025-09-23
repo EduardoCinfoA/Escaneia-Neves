@@ -120,3 +120,22 @@ header {
     margin-left: 20px;
 
 }
+.navbar{
+    height:70px;
+    width: 7000px;
+}
+.card{
+    margin-left: 200px;
+}
+.bt{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 100px;
+}
+.bt:hover{
+    background-color: rgb(255, 102, 0);
+    color: white;
+}
+#c{
+    color: white;
+}
