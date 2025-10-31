@@ -132,10 +132,75 @@ header {
     color: white;
     margin-left: 100px;
 }
+.bt2{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 120px;
+}
+.bt3{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 105px;
+}
+.bt4{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 105px;
+}
+.bt5{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 130px;
+}
+.bt6{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 130px;
+}
+.bt7{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 130px;
+}
+.bt8{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 120px;
+}
+.bt9{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 125px;
+}
+.bt10{
+    background-color: rgb(250, 121, 0);
+    color: white;
+    margin-left: 130px;
+}
 .bt:hover{
     background-color: rgb(255, 102, 0);
     color: white;
 }
 #c{
     color: white;
+}
+.letter{
+    font-weight:lighter;
+    font-size: 20px;
+}
+.card1{
+    margin-left: -100px;
+}
+.card2{
+    margin-left: -1280px;
+}
+.card3{
+    margin-left: -643px;
+    margin-top: -490px;
+}
+.card4{
+    margin-top: -470px;
+}
+.card5{
+    margin-left: -1280px;
 }
