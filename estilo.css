@@ -19,7 +19,7 @@ body{
   width: 600;
   height: 400;
   margin-top: 50px;
-  margin-left: 300px;
+  margin-left: 100px;
 }
 /* formatação do card cultural */
 .pC{
@@ -227,3 +227,4 @@ body {
   background-color: rgb(160, 192, 152);
   margin-left: 250px;
 }
+
